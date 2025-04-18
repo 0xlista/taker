@@ -3573,3 +3573,12 @@
 4/17/2025 | 8:18:32 PM | INFO | Trying to activate mining on-chain for wallet: 0x3431BC4F78e9Df8f999160D2E6fc7A40119E50B4 
 4/17/2025 | 8:18:33 PM | ERROR | Activate Mining Error: {"errno":-111,"code":"ECONNREFUSED","syscall":"connect","address":"101.47.19.33","port":443}
 4/17/2025 | 8:18:33 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+4/18/2025 | 1:17:39 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/18/2025 | 1:17:39 AM | INFO | Start process for wallet 0x3431BC4F78e9Df8f999160D2E6fc7A40119E50B4 
+4/18/2025 | 1:17:40 AM | INFO | Trying To Login for wallet: 0x3431BC4F78e9Df8f999160D2E6fc7A40119E50B4 
+4/18/2025 | 1:17:41 AM | INFO | Login successful... 
+4/18/2025 | 1:17:41 AM | INFO | Trying to check user info... 
+4/18/2025 | 1:17:41 AM | INFO | User ID: 103367392 | Twitter: @listaanatalie | Total Points: 1344000 
+4/18/2025 | 1:17:41 AM | INFO | Trying to check user miner status... 
+4/18/2025 | 1:17:42 AM | INFO | Last mining time: 4/17/2025, 12:33:36 PM
+4/18/2025 | 1:17:42 AM | WARN | Mining already started, next mining time is: 4/18/2025, 12:33:36 PM
