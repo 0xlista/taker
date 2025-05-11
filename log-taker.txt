@@ -4882,3 +4882,12 @@
 5/10/2025 | 8:16:53 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 5/10/2025 | 8:16:53 PM | INFO | Trying to activate mining on-chain for wallet: 0x3431BC4F78e9Df8f999160D2E6fc7A40119E50B4 
 5/10/2025 | 8:17:05 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x3db617dec7a8a6b70163836edd0cd413366a98fd9234281992505d8af297ebc3 
+5/11/2025 | 1:26:14 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/11/2025 | 1:26:14 AM | INFO | Start process for wallet 0x3431BC4F78e9Df8f999160D2E6fc7A40119E50B4 
+5/11/2025 | 1:26:15 AM | INFO | Trying To Login for wallet: 0x3431BC4F78e9Df8f999160D2E6fc7A40119E50B4 
+5/11/2025 | 1:26:16 AM | INFO | Login successful... 
+5/11/2025 | 1:26:16 AM | INFO | Trying to check user info... 
+5/11/2025 | 1:26:16 AM | INFO | User ID: 103367392 | Twitter: @listaanatalie | Total Points: 1848000 
+5/11/2025 | 1:26:16 AM | INFO | Trying to check user miner status... 
+5/11/2025 | 1:26:17 AM | INFO | Last mining time: 5/10/2025, 8:17:00 PM
+5/11/2025 | 1:26:17 AM | WARN | Mining already started, next mining time is: 5/11/2025, 8:17:00 PM
